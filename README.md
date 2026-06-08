@@ -66,6 +66,8 @@ sales-dashboard-analysis/
 
 ## Part 1: Python Data Cleaning
 
+
+
 The raw CSV was cleaned and prepared using Python and pandas. Key steps included:
 
 - Loaded raw CSV and standardized column names
@@ -87,6 +89,8 @@ A 5-page interactive dashboard built from `superstore_clean.csv`.
 ### Page 1: Executive Overview
 High-level KPI summary with trend and category breakdown.
 
+![Executive Overview](screenshots/Executive_Overview_Dashboard_Page1.png)
+
 | KPI | Value |
 |---|---|
 | Total Sales | $12.6M |
@@ -104,6 +108,8 @@ High-level KPI summary with trend and category breakdown.
 ### Page 2: Sales Trend Analysis
 Deep dive into year-over-year and seasonal patterns.
 
+![Sales Trend Analysis](screenshots/Sales_Trend_Analysis_Dashboard_Page2.png)
+
 **Key Insights:**
 - Sales grew consistently from $0.9M (2011) to $1.6M (2014)
 - Sales growth rate: 12% (2012), 33% (2013), 21% (2014)
@@ -116,6 +122,8 @@ Deep dive into year-over-year and seasonal patterns.
 
 ### Page 3: Product Performance
 Product and category-level profitability analysis.
+
+![Product Performance](screenshots/Product_Performance_Dashboard_Page3.png)
 
 **Key Insights:**
 - Technology leads in sales ($4.7M) and profit margin (13.99%)
@@ -130,6 +138,8 @@ Product and category-level profitability analysis.
 ### Page 4: Regional / Market Analysis
 Geographic performance across regions and markets.
 
+![Regional Market Analysis](screenshots/Regional_Market_Analysis_Dashboard_Page4.png)
+
 **Key Insights:**
 - Central region leads in sales ($1.7M) but is part of EU market
 - APAC is the most profitable market ($28.7K profit)
@@ -143,6 +153,8 @@ Geographic performance across regions and markets.
 
 ### Page 5: Customer Segment Analysis
 Segment-level and customer-level breakdown.
+
+![Customer Segment Analysis](screenshots/Customer_Segment_Analysis_Dashboard_Page5.png)
 
 **Key Insights:**
 - Consumer segment dominates with 56.43% of total sales
