@@ -147,6 +147,8 @@ The raw CSV dataset was cleaned and transformed using Python and pandas.
 - dim_product.csv
 - dim_geo.csv
 
+📄 [View Full Python Cleaning Script](python/data_cleaning.py)
+
 > **AI Assistance Note**
 >
 > The Python cleaning script was developed with the assistance of Codex (AI coding assistant). I independently reviewed, executed, validated, and understood all transformation logic and outputs before using them in the project.
