@@ -306,6 +306,8 @@ FROM superstore_clean;
 
 ✅ All SQL calculations were validated against the Power BI dashboard.
 
+📄 [View Full SQL Validation Queries](sql/validation_queries.sql)
+
 ---
 
 # Key Business Insights
