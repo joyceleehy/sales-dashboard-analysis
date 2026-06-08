@@ -357,3 +357,4 @@ This project also strengthened my ability to work effectively with AI coding ass
 
 - LinkedIn: https://www.linkedin.com/in/joyceleehy
 - GitHub: https://github.com/joyceleehy
+- [More Projects](https://github.com/joyceleehy)
